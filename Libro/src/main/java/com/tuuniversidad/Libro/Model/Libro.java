@@ -1,4 +1,4 @@
-package com.ug.Libro.Model;
+package com.tuuniversidad.Libro.Model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
