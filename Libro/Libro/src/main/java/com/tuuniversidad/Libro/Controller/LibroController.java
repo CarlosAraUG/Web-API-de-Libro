@@ -1,4 +1,4 @@
-package com.ug.Libro.Controller;
+package com.tuuniversidad.Libro.Controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ug.Libro.Model.Libro;
-import com.ug.Libro.Service.LibroService;
+import com.tuuniversidad.Libro.Model.Libro;
+import com.tuuniversidad.Libro.Service.LibroService;
 
 @RestController
 @RequestMapping ("/libro")
