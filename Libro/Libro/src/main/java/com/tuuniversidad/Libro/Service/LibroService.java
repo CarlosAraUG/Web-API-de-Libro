@@ -1,11 +1,11 @@
-package com.ug.Libro.Service;
+package com.tuuniversidad.Libro.Service;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.ug.Libro.Model.Libro;
-import com.ug.Libro.Repository.LibroRepository;
+import com.tuuniversidad.Libro.Model.Libro;
+import com.tuuniversidad.Libro.Repository.LibroRepository;
 
 @Service
 public class LibroService {
