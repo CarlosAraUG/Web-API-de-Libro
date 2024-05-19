@@ -3,7 +3,7 @@
 **Iniciando el proyecto.**
 
 Al dar inicio al proyecto, la interfaz de usuario de Spring Initializr me resultó novedosa al principio. Para comenzar, se utilizará la herramienta Spring Initializr para generar un nuevo proyecto Spring Boot.
-
+- **Web:** Esta dependencia proporciona las funcionalidades básicas para crear una aplicación web Spring MVC.
 
 **Creación de la entidad Libro.**
 
